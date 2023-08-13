@@ -8,7 +8,7 @@
   "url": "https://cdn.jsdelivr.net/gh/m00t316/teal@v1.0/src/main.css",
   "download_url": "https://github.com/m00t316/teal/archive/refs/tags/v1.0.zip",
   "marketing_url": "https://github.com/m00t316/teal",
-  "latest_url": "",
+  "latest_url": "https://cdn.jsdelivr.net/gh/m00t316/teal@v1.0/ext.json",
   "thumbnail_url": "https://cdn.jsdelivr.net/gh/m00t316/teal@main/tealpreview.png",
   "dock_icon": {
     "type": "circle",
