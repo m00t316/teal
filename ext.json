@@ -4,7 +4,7 @@
   "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.1",
-  "isDark": true
+  "isDark": "true"
   "description": "A teal inspired theme for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/m00t316/teal@v1.1/src/main.css",
   "download_url": "https://github.com/m00t316/teal/archive/refs/tags/v1.1.zip",
