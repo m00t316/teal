@@ -1,5 +1,5 @@
 # Teal
-![preview](https://raw.githubusercontent.com/m00t316/teal/main/tealpreview.png)
+![preview](https://raw.githubusercontent.com/m00t316/teal/main/tealpreview.png?token=GHSAT0AAAAAACGGWHX7A3DMYMOO2JHSCPUCZG3K5RQ)
 
 A teal inspired theme for Standard Notes
 
