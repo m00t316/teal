@@ -3,7 +3,8 @@
   "name": "Teal",
   "content_type": "SN|Theme",
   "area": "themes",
-  "version": "1.2",
+  "isDark": "true",
+  "version": "1.1",
   "description": "A teal inspired theme for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/m00t316/teal@v1.2/src/main.css",
   "download_url": "https://github.com/m00t316/teal/archive/refs/tags/v1.2.zip",
@@ -16,5 +17,4 @@
     "foreground_color": "#FFFFFF",
     "border_color": "#2C2C2C"
   }
-  "isDark": "true"
 }
